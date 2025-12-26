@@ -1,0 +1,12 @@
+REPO_TAGLINE: Performance analysis • metrics • modeling
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SSC0643-Avaliacao-Desempenho
+
+BG_1: "#0C1A1A"
+BG_2: "#1A2F2C"
+TEXT_MAIN: "#EFFFFB"
+TEXT_MUTED: "#BFE7DF"
+ACCENT: "#2DD4BF"
+CARD_RADIUS: "18"
